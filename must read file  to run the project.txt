@@ -10,4 +10,6 @@ step 2: run the command
 
 install-plugin grails-image-tools-1.0.5.zip
 
+otherwise it will give unresolved plugin errors
+
 
