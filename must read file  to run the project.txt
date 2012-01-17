@@ -1,0 +1,13 @@
+whenever we want to run this project for the first time on new machine. after download the project before run-the application 
+
+we need to do these 2 steps
+
+step 1: 
+
+remove plugins.image-tools=1.0.5 line in application.properties file
+
+step 2: run the command
+
+install-plugin grails-image-tools-1.0.5.zip
+
+
